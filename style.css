@@ -1,0 +1,57 @@
+.body-index {
+  background-color: rgb(255, 0, 0);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+.container {
+  background-color: brown;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 55px;
+  margin-bottom: 55px;
+  display:flex
+  
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.karta {
+    object-fit: cover;
+    display: flex;
+    width: 300px;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+}
+
+.karta2 {
+    object-fit: cover;
+    display: flex;
+    width: 300px;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+}  
+
+.karta3 {
+    object-fit: cover;
+    display: flex;
+    width: 300px ;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+}
+
+
+
